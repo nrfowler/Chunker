@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Chunker": {
+      "commandName": "Project",
+      "commandLineArgs": "cat cat"
+    }
+  }
+}
